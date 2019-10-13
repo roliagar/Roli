@@ -3,7 +3,7 @@
 roliagar@gmail.com  
 (317) 847-0315 
 Bothell, WA  
-[Github](github.com/roliagar) | [LinkedIn](linkedin.com/in/roli-agarwal-0b209b9/)
+[Github](github.com/roliagar) | [LinkedIn](https://www.linkedin.com/in/roli-agarwal-0b209b9/)
 
 ## Technologies:
 
