@@ -1,2 +1,0 @@
-# Roli
-Resume
