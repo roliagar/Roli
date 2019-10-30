@@ -14,7 +14,7 @@ Bothell, WA
 
 **Resort Condominiums International**  
 Indianapolis, Indiana, USA  
-_Systems Analyst_, May 2007 - July 2016
+_Programmer & Systems Analyst_, May 2007 - July 2016
 
 - Worked as a Systems Analyst for various projects with a common goal towards building/supporting an improved Service Oriented Architecture for RCI.
 - Created a prototype SOAP for CICS channel using CICS version 2.3. Authored and tested necessary SOAP clients and web service providers in COBOL. Communicating over HTTP, this channel served as one of the initial step towards SOA implementation in RCI.
@@ -25,7 +25,7 @@ _Systems Analyst_, May 2007 - July 2016
 
 **Resort Condominiums International**  
 Mumbai, India  
-_Programmer Analyst_, August 2004 - May 2007
+_Application Developer & Tech Lead_, August 2004 - May 2007
 
 - Worked as a Programmer Analyst involved in analysis, design, development, testing and documentation of mainframe modules for Endless Vacation System applications for RCI which primarily involved development and maintenance of CICS interfaces, related programs in COBOL, and batch components using JCL and PROCs.  
 - As a tech lead, was also responsible for team organization, preparation of the work environment, application system environment familiarization and documentation, knowledge creation, transition plan preparation and execution.
